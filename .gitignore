@@ -1,0 +1,9 @@
+*.pyc
+__pycache__
+build
+dist
+*.egg-info
+tests
+github.com
+tools/*.csv
+*.csv
